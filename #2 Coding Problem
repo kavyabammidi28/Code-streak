@@ -1,0 +1,11 @@
+def find_max(arr):
+    if not arr:
+        return None  # Handle empty array
+    max_val = arr[0]
+    for num in arr:
+        if num > max_val:
+            max_val = num
+    return max_val
+
+# Test the function
+print(find_max([5, 3, 8, 1, 9, 2]))  # Output: 9

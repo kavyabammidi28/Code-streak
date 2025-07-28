@@ -3,8 +3,12 @@ Daily Coding Challenges
 
 A personal journey of daily coding to build discipline, improve problem-solving skills, and stay consistent with learning.
 
-🏆 Challenge Goals
+🏆 Challenge Goals:
+
 ✅ Solve one coding problem daily
+
 ✅ Write clean, well-documented code
-✅ Master the Depths of Programming (Python)
+
+✅ Master the Depths of Programming 
+
 ✅ Improve problem-solving & algorithmic thinking

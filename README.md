@@ -1,14 +1,26 @@
-🚀 Code Streak: 
-Daily Coding Challenges
+🔥 Code Streak - Daily Coding Challenges
 
-A personal journey of daily coding to build discipline, improve problem-solving skills, and stay consistent with learning.
+Welcome to the Code Streak repository! This repo is dedicated to solving daily coding problems to build consistency, improve problem-solving skills, and strengthen programming fundamentals.
 
-🏆 Challenge Goals:
+📅 Streak Goal
 
-✅ Solve one coding problem daily
+Solve at least 1 problem every day
 
-✅ Write clean, well-documented code
+Track your progress through commits and submissions
 
-✅ Master the Depths of Programming 
+📈 Why Code Daily?
 
-✅ Improve problem-solving & algorithmic thinking
+Build a strong habit
+
+Improve logic and speed
+
+Get better at technical interviews
+
+Keep your GitHub green with contributions
+🤝 Contributions
+
+This repo is for personal tracking, but feel free to fork and create your own streak repo!
+
+🙌 Stay Consistent
+
+"Success doesn’t come from what you do occasionally, it comes from what you do consistently."

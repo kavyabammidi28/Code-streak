@@ -14,9 +14,8 @@ Build a strong habit
 
 Improve logic and speed
 
-Get better at technical interviews
+Get better at technical interview
 
-Keep your GitHub green with contributions
 🤝 Contributions
 
 This repo is for personal tracking, but feel free to fork and create your own streak repo!

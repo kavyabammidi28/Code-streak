@@ -1,0 +1,24 @@
+def longest_unique_substring(s):
+    n = len(s)              # store the length of the string
+    max_len = 0             # store maximum length found so far
+    left = 0                # left index of current window
+    window_chars = []       # list to store characters in current window
+
+    for right in range(n):  # right index of current window
+        # If character at 'right' is already in window, remove from left
+        while s[right] in window_chars:
+            window_chars.pop(0)   # remove first character
+            left += 1             # move left of window forward
+
+        window_chars.append(s[right])   # add new character to window
+        current_len = right - left + 1  # current window length
+
+        # Update maximum length
+        if current_len > max_len:
+            max_len = current_len
+
+    return max_len
+
+# Example
+s = "abcabcbb"
+print(longest_unique_substring(s))  # Output: 3
